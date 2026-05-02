@@ -1,0 +1,26 @@
+Important: the README contains an internal code block inside it. When pasting into GitHub, it should work fine. Just make sure the triple backticks stay intact.
+
+For **CITATION.cff**, create a file named exactly:
+
+```text
+CITATION.cff
+
+cff-version: 1.2.0
+title: "PSA Control Standard: Pathological Self-Assembly Controls for Agentic Systems"
+message: "If you use or reference this control standard, please cite it as below."
+type: report
+authors:
+  - family-names: "Sabouhi"
+    given-names: "Ryan"
+version: "1.2"
+date-released: "2026-05-01"
+abstract: "A public review draft defining controls for pathological self-assembly risks in agentic systems with memory, tools, persistence, recovery, delegation, workflow automation, external action, self-monitoring, and operator trust."
+keywords:
+  - AI safety
+  - agentic systems
+  - governance
+  - runtime controls
+  - memory
+  - tool use
+  - self-assembly
+  - operator trust
